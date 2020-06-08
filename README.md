@@ -1,3 +1,8 @@
+## React / Ethereum Todo List App
+
+This Dapp creates a todo list and conects it to the ethereum network.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
